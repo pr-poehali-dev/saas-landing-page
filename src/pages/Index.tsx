@@ -179,7 +179,7 @@ const Index = () => {
         <section id="features" className="py-24 px-4 bg-muted/30">
           <div className="container mx-auto max-w-6xl">
             <div className="text-center mb-16 animate-fade-in">
-              <h2 className="text-3xl md:text-4xl font-bold mb-4">Всё для успешных интеграций</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">Всё для успешных интеграций 123</h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Мощные инструменты для подключения и управления API-интеграциями
               </p>
